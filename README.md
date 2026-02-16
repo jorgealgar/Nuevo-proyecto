@@ -1,34 +1,37 @@
 🚀 Nuevo Proyecto
 
-Sitio web estático desarrollado con HTML, CSS y JavaScript como práctica de desarrollo frontend.
-El proyecto presenta una estructura multipágina con diseño personalizado y elementos multimedia.
+
+
+
+
+
+Nuevo Proyecto es un sitio web estático multipágina desarrollado con HTML, CSS y JavaScript.
+Este proyecto sirve como portafolio de práctica de desarrollo frontend, con secciones de información personal, contacto y elementos multimedia.
 
 📌 Descripción
 
-Este proyecto consiste en una página web básica que incluye:
+El proyecto incluye:
 
-🏠 Página principal
+🏠 Página principal con bienvenida y navegación
 
 👤 Sección Sobre mí
 
-📩 Página de contacto
+📩 Formulario de contacto funcional
 
-🎨 Estilos personalizados en CSS
+🎨 Estilos personalizados con CSS moderno
 
-⚙️ Funcionalidad básica con JavaScript
+⚙️ Interactividad con JavaScript básico
 
-🖼️ Recursos multimedia (imágenes y video)
+🖼️ Recursos multimedia: imágenes y video para enriquecer la experiencia
 
-Ideal como proyecto inicial para practicar maquetación web y estructura de sitios multipágina.
+Este proyecto permite demostrar habilidades de maquetación web, organización de contenido y diseño visual limpio.
 
 🛠 Tecnologías utilizadas
-
-HTML5 – Estructura del sitio
-
-CSS3 – Diseño y estilos
-
-JavaScript – Interactividad básica
-
+Tecnología	Uso
+HTML5	Estructura semántica del sitio
+CSS3	Diseño y estilos modernos
+JavaScript	Interactividad básica
+Multimedia	Imágenes y videos para contenido visual
 📂 Estructura del Proyecto
 Nuevo-proyecto/
 │
@@ -41,7 +44,7 @@ Nuevo-proyecto/
 ├── styles.css       # Estilos globales
 └── index.js         # Lógica en JavaScript
 
-🚀 Cómo ejecutar el proyecto
+🚀 Instalación y uso
 
 Clonar el repositorio:
 
@@ -53,25 +56,35 @@ Entrar en la carpeta:
 cd Nuevo-proyecto
 
 
-Abrir el archivo index.html en tu navegador.
-
-No requiere instalación de dependencias.
+Abrir index.html en tu navegador.
+No se requieren dependencias adicionales.
 
 🎯 Objetivos del Proyecto
 
-Practicar estructura HTML semántica
+Practicar HTML semántico y estructurado
 
-Aplicar estilos personalizados con CSS
+Aplicar diseño CSS moderno y organizado
 
-Implementar interactividad básica con JavaScript
+Implementar JavaScript para interactividad
 
-Comprender la organización de proyectos web
+Comprender la estructura de proyectos web multipágina
+
+🔮 Posibles mejoras
+
+🌐 Hacer el sitio responsive para dispositivos móviles
+
+✅ Agregar validación al formulario de contacto
+
+✨ Mejorar la interactividad y animaciones con CSS y JS
+
+⚛️ Migrar a un framework moderno (React, Vue, etc.)
 
 👨‍💻 Autor
 
-Desarrollado por Jorge Algar
-Proyecto de práctica en desarrollo web frontend.
+Jorge Algar – Desarrollador Frontend en formación
+GitHub
+ | LinkedIn
 
 📜 Licencia
 
-Este proyecto puede utilizarse con fines educativos.
+Este proyecto está disponible para fines educativos y de práctica.
